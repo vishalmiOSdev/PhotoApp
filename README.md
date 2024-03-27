@@ -1,3 +1,7 @@
+
+Note:
+Before installing the dependencies, please ensure you have CocoaPods installed.
+
 About
 MyApp implements the MVVM architecture pattern with API interaction. 
 It utilizes third-party libraries such as SDWebImage for efficient and asynchronous image loading and caching. 
