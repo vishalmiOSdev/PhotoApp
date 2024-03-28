@@ -1,0 +1,6 @@
+framework module Pods_BT_Photos_BT_PhotosUITests {
+  umbrella header "Pods-BT-Photos-BT-PhotosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
